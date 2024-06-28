@@ -1,1 +1,5 @@
-# HongjinLin-weekly-report
+## week1
+- [Week1 Report](week1/Week1%20Report.md)
+
+## week2
+- [Week1 Report](week2/Weekly1%20Report.md)
